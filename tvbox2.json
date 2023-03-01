@@ -5,7 +5,7 @@
 "sites":[
 
 
-
+{"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_IQIYI","name":"爱奇艺〔SP〕","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
@@ -30,7 +30,7 @@
 
 {"key":"Cokemv","name":"Cokemv〔ts〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"./JAR/cs.jar"},
 
-{"key":"csp_LiteApple","name":"小苹果〔SP〕","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"csp_SP2345","name":"2345影视〔SP〕","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
 
